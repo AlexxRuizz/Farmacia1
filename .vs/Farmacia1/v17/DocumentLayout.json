@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\migrations\\20240601224731_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\migrations\\20240601224731_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\migrations\\20240601224746_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\migrations\\20240601224746_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\migrations\\20240601224514_migracion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\migrations\\20240601224514_migracion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\views\\home\\generarreporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\views\\home\\generarreporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224703_Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Farmacia1\\Migrations\\20240601224703_Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224612_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Farmacia1\\Migrations\\20240601224612_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|c:\\users\\alexa\\source\\repos\\farmacia1\\farmacia1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44FE57-D685-4489-A390-BCA0C1E447BE}|Farmacia1\\Farmacia1.csproj|solutionrelative:farmacia1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Farmacia1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Farmacia1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:33:00.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Farmacia1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Farmacia1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:32:47.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Farmacia1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Farmacia1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T00:57:48.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Farmacia1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:52:43.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Farmacia1\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Farmacia1\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T22:51:34.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240601224746_usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224746_usuario.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Migrations\\20240601224746_usuario.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224746_usuario.cs",
+              "RelativeToolTip": "Farmacia1\\Migrations\\20240601224746_usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:47:46.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240601224731_producto.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224731_producto.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Migrations\\20240601224731_producto.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224731_producto.cs",
+              "RelativeToolTip": "Farmacia1\\Migrations\\20240601224731_producto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA9wDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:47:31.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Program.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Program.cs",
+              "RelativeToolTip": "Farmacia1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:44:46.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\appsettings.json",
+              "RelativeDocumentMoniker": "Farmacia1\\appsettings.json",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\appsettings.json",
+              "RelativeToolTip": "Farmacia1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T22:37:00.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Farmacia1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAQwJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:58:25.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240601224514_migracion1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224514_migracion1.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Migrations\\20240601224514_migracion1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224514_migracion1.cs",
+              "RelativeToolTip": "Farmacia1\\Migrations\\20240601224514_migracion1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:45:14.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "generarReporte.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Home\\generarReporte.cshtml",
+              "RelativeDocumentMoniker": "Farmacia1\\Views\\Home\\generarReporte.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Home\\generarReporte.cshtml",
+              "RelativeToolTip": "Farmacia1\\Views\\Home\\generarReporte.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:00:04.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Farmacia1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Farmacia1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:02:46.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Farmacia1\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Farmacia1\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:02:59.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Farmacia1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Farmacia1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAIwF4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T00:52:23.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240601224703_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224703_Producto.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Migrations\\20240601224703_Producto.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224703_Producto.cs",
+              "RelativeToolTip": "Farmacia1\\Migrations\\20240601224703_Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:47:03.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240601224612_producto.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224612_producto.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Migrations\\20240601224612_producto.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Migrations\\20240601224612_producto.cs",
+              "RelativeToolTip": "Farmacia1\\Migrations\\20240601224612_producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:46:12.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Farmacia1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:25:50.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "producto.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Models\\producto.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Models\\producto.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Models\\producto.cs",
+              "RelativeToolTip": "Farmacia1\\Models\\producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:24:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Farmacia1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Farmacia1\\Farmacia1\\Models\\Usuario.cs",
+              "RelativeToolTip": "Farmacia1\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:34:28.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
